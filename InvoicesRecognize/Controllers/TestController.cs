@@ -9,5 +9,10 @@ namespace InvoicesRecognize.Controllers
 {
     public class TestController : ApiController
     {
+        public string show()
+        {
+            return "some test string";
+        }
+
     }
 }

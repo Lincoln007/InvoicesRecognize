@@ -14,5 +14,10 @@ namespace InvoicesRecognize.Controllers
             return "some test string";
         }
 
+        public string tangchao()
+        {
+            return "tang hao";
+        }
+
     }
 }
